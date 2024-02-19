@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718471820672",
+    "project_id": "investment-78a9e",
+    "storage_bucket": "investment-78a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718471820672:android:f992e8f292a25a96bebd65",
+        "android_client_info": {
+          "package_name": "com.example.ezraino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bkaQWUrEjL-gSvSNPQ1yRieetBOCYUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
